@@ -13,17 +13,18 @@ A list of ShiVa-related 3rd party projects on GitHub and similar sites. For our 
 # Plugins
 plugins for the ShiVa engine
 
-## Network
+### Network
 - [CURL: make HTTP(S) GET/POST requests](https://github.com/broozar/ShiVaCURL)
 - [rapidJSON parser](https://github.com/broozar/ShiVaRapidJSON)
 
-## SteamWorks
+### SteamWorks
 - [original ShiVa 1.x implementation](https://github.com/broozar/SteamShiva/tree/master)
 - [first ShiVa 2.0 implementation of SteamWorks](https://github.com/broozar/SteamShiva/tree/ShiVaSteam2)
 - [SteamWorks 1.4 branch](https://github.com/broozar/SteamShiva/tree/ShiVaSteam2-140)
 
-## Misc
+### Misc
 - [PCG random number generator](https://github.com/broozar/ShiVa-betterRNG)
+- [Polyglot game translation](https://github.com/broozar/ShiVaPolyglot)
 - [background process checker](https://github.com/broozar/ShiVaProcessCheck)
 - [original LEAP motion integration for ShiVa 1.x (deprecated)](https://github.com/broozar/ShivaLeap)
 
@@ -38,7 +39,7 @@ plugins for the ShiVa engine
 - [Server launcher for MacOS](https://github.com/broozar/ShiVaServerLauncherMac)
 - [jp BuildScripts: rebuild plugins from the command line](https://github.com/broozar/jpPluginBuildScripts)
 
-Also very useful:
+### Also very useful
 - [SphereMap Generator](http://www.geocities.ws/lithunwrap/)
 - [NormalMap Inverter](http://www.geocities.ws/lithunwrap/)
 
