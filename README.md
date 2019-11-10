@@ -24,7 +24,6 @@ plugins for the ShiVa engine
 
 ### Misc
 - [PCG random number generator](https://github.com/broozar/ShiVa-betterRNG)
-- [Polyglot game translation](https://github.com/broozar/ShiVaPolyglot)
 - [background process checker](https://github.com/broozar/ShiVaProcessCheck)
 - [original LEAP motion integration for ShiVa 1.x (deprecated)](https://github.com/broozar/ShivaLeap)
 
