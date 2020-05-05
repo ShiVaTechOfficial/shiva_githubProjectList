@@ -23,9 +23,9 @@ plugins for the ShiVa engine
 - [SteamWorks 1.4 branch](https://github.com/broozar/SteamShiva/tree/ShiVaSteam2-140)
 
 ### Misc
-- [PCG random number generator](https://github.com/broozar/ShiVa-betterRNG)
 - [background process checker](https://github.com/broozar/ShiVaProcessCheck)
-- [original LEAP motion integration for ShiVa 1.x (deprecated)](https://github.com/broozar/ShivaLeap)
+- [LEAP motion integration for ShiVa 1.x (deprecated)](https://github.com/broozar/ShivaLeap)
+- [PCG random number generator](https://github.com/broozar/ShiVa-betterRNG)
 
 # Editor Modules
 - [Blender converter](https://github.com/broozar/shiva20blendconvert)
@@ -33,14 +33,15 @@ plugins for the ShiVa engine
 - [FBX importer](https://github.com/broozar/shiva20fbx)
 
 # Utilities
+- [jp BuildScripts: rebuild plugins from the command line](https://github.com/broozar/jpPluginBuildScripts)
 - [Log2Ram: redirects the logfile to a ramdisk](https://github.com/broozar/shivaLog2Ram)
 - [LuaLibMaker: create Lua libraries for linking in Editor mdoules](https://github.com/broozar/LuaLibMaker)
 - [Server launcher for MacOS](https://github.com/broozar/ShiVaServerLauncherMac)
-- [jp BuildScripts: rebuild plugins from the command line](https://github.com/broozar/jpPluginBuildScripts)
+- [WebGL standalone packaging framework](https://github.com/broozar/ShiVaWebGLLauncher)
 
 ### Also very useful
-- [SphereMap Generator](http://www.geocities.ws/lithunwrap/)
 - [NormalMap Inverter](http://www.geocities.ws/lithunwrap/)
+- [SphereMap Generator](http://www.geocities.ws/lithunwrap/)
 
 # Websites
 - [JP store for ShiVa plugins and packs](https://www.julien-pierron.com/shiva-store-packs)
