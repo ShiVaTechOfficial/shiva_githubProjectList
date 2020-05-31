@@ -25,6 +25,7 @@ plugins for the ShiVa engine
 ### Misc
 - [background process checker](https://github.com/broozar/ShiVaProcessCheck)
 - [LEAP motion integration for ShiVa 1.x (deprecated)](https://github.com/broozar/ShivaLeap)
+- [Math with Big Number Strings](https://github.com/broozar/ShiVaStringmath)
 - [PCG random number generator](https://github.com/broozar/ShiVa-betterRNG)
 
 # Editor Modules
